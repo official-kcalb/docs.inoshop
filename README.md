@@ -17,11 +17,11 @@ layout:
     visible: true
 ---
 
-# Welcome
+# Welcome.
 
 Welcome to&#x20;
 
-&#x20;GitBook Starter Template! Here you'll get an  of all the amazing features  offers to help you build beautiful, interactive documentation.
+&#x20;GitBook Starter Template! Here you'll get an  of all the amazing features  offers to  you build beautiful, interactive documentation.
 
 
 
