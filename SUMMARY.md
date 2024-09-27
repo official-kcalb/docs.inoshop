@@ -1,3 +1,3 @@
 # Table of contents
 
-* [🔜 Coming soon](README.md)
+* [🔜 Coming Soon](README.md)
